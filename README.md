@@ -2,7 +2,7 @@
 - 👀 I’m interested in finding ways to solve problems
 - 🌱 I’m currently learning some Basic CI/CD & some Advanced Node.js
 - 📫 How to reach me ... akhil4755@gmail.com
-- akhil.bio.link
+- Website : https://akhil.bio.link/
 
 <!---
 akhil4755/akhil4755 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
